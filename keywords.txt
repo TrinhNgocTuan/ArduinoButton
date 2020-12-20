@@ -1,0 +1,5 @@
+Button	KEYWORD1
+isClicked	KEYWORD2
+isPressed	KEYWORD2
+isReleased	KEYWORD2
+handle	KEYWORD2
